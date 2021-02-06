@@ -8,7 +8,7 @@
 	- Designing front-end design for admins and students to easily navigate through projects for searching, ranking, submitting, and editing of capstone projects
 	- Using a general, reusable codebase for better scalability to be used by other departments or universities 
 - *2020-* [Society of Hispanic Professional Engineers @ UCF App](https://github.com/SHPEUCF/shpeucfapp)
-	- Refactoring code for usability and readability (~1,500 lines removed)
+	- Refactoring code for usability and readability (~3,200 lines removed)
 	- Adding documentation and stability to app with a code and styling refactoring goal
 - *2019* [React Native and JavaScript tutorial](https://github.com/SHPEUCF/apptutorial)
 	- Created React Native tutorial for new SHPE members to navigate them through all parts of the app
